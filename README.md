@@ -10,24 +10,16 @@
 ## 🛠️ Мой стек технологий
 
 | **Языки** | **Фреймворки** | **Базы данных** | **Инструменты** |
-|-----------|---------------|----------------|----------------|
-| Java      | Spring Boot   | PostgreSQL     | Docker         |
-| JavaScript| Spring MVC    | MySQL          | Git            |
-| HTML/CSS  | Hibernate     | H2             | Maven/Gradle   |
+|-----------|----------------|----------------|----------------|
+| С++/C     | Boost          | PostgreSQL     | Docker         |
+| JavaScript| Spring MVC     | MySQL          | Git            |
+| HTML/CSS  | Hibernate      | H2             |                |
 
 ---
 
 ## 📌 Закреплённые проекты
 
-Здесь будут мои лучшие работы:
-
-🔹 **[Название проекта 1]** — краткое описание (ссылка на репозиторий)  
-🔹 **[Название проекта 2]** — краткое описание (ссылка на репозиторий)  
-🔹 **[Название проекта 3]** — краткое описание (ссылка на репозиторий)  
-
-> *Скоро здесь появятся ссылки на мои самые интересные проекты.*
-
----
+Здесь будут мои работы:
 
 ## 📊 Моя активность
 
@@ -35,7 +27,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LostDit&theme=radical)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostDit)](https://github.com/LostDit/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostDit&show_icons=true&theme=radical&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
