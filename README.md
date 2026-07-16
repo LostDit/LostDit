@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F75C7E&lines=Привет,+я+LostDit!;Back-End+разработчик;Люблю+C%2B%2B+и+PostgreSQL)](https://git.io/typing-svg)
 
-💻 **Back-End разработчик** 
-📫 Связаться со мной: [Telegram](https://t.me/@LostDeadz)
-
 ---
 
 ## 🛠️ Мой стек технологий
