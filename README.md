@@ -35,7 +35,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LostDit&theme=radical)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LostDit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostDit)](https://github.com/LostDit/github-readme-stats)
 
 ---
 
