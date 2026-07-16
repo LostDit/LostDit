@@ -1,41 +1,30 @@
 # 👋 Привет, я LostDit
 
-💻 **Back-End разработчик** | Java | Spring Boot | PostgreSQL  
-🚀 Создаю надёжные API и решаю реальные задачи  
-🌱 Сейчас изучаю **Spring Security** и **Docker**  
-📫 Связаться со мной: [Telegram](https://t.me/your_telegram) | [LinkedIn](https://linkedin.com/in/your_linkedin)
+💻 **Back-End разработчик** 
+📫 Связаться со мной: [Telegram](https://t.me/@LostDeadz)
 
 ---
 
 ## 🛠️ Мой стек технологий
 
-| **Языки** | **Фреймворки** | **Базы данных** | **Инструменты** |
-|-----------|----------------|----------------|----------------|
-| С++/C     | Boost          | PostgreSQL     | Docker         |
-| JavaScript| Spring MVC     | MySQL          | Git            |
-| HTML/CSS  | Hibernate      | H2             |                |
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LostDit&layout=compact&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
 ---
-
-## 📌 Закреплённые проекты
-
-Здесь будут мои работы:
 
 ## 📊 Моя активность
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LostDit&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=LostDit&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LostDit&theme=radical)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostDit&show_icons=true&theme=radical&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-## ✨ Интересный факт обо мне
-
-> 💡 Я верю, что лучший код — тот, который можно прочитать как книгу.  
-> 🎯 Моя цель на 2026 год — внести вклад в open-source проекты.
-
----
-
-⭐ **Спасибо, что заглянули!** Буду рад новым знакомствам и сотрудничеству.
+**Спасибо, что заглянули!**
