@@ -1,12 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="50" viewBox="0 0 450 50">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="60" viewBox="0 0 480 60">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&amp;display=swap');
-    text {
+    .text {
       font-family: 'Fira Code', monospace;
       font-size: 28px;
       font-weight: 700;
       fill: #58A6FF;
     }
+    .cursor {
+      font-family: 'Fira Code', monospace;
+      font-size: 28px;
+      font-weight: 700;
+      fill: #58A6FF;
+      animation: blink 0.7s step-end infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
   </style>
-  <text x="10" y="38">🛠️ Мой стек технологий</text>
+  <!-- Текст с анимацией появления (ширина раскрывается) -->
+  <text x="10" y="42" class="text" clip-path="url(#reveal1)">
+    🛠️ Мой стек технологий
+  </text>
+  <!-- Мигающий курсор -->
+  <text x="340" y="42" class="cursor">|</text>
+  <defs>
+    <clipPath id="reveal1">
+      <rect x="0" y="0" width="0" height="60">
+        <animate attributeName="width" from="0" to="480" dur="2s" fill="freeze" />
+      </rect>
+    </clipPath>
+  </defs>
 </svg>
